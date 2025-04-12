@@ -3,6 +3,7 @@ body {
     overflow: hidden;
   }
   
+  
   main::after {
     content: "";
     position: fixed;
