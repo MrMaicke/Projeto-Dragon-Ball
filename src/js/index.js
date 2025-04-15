@@ -1,4 +1,3 @@
-
 // Seleciona todos os botões de personagem
 const botoes = document.querySelectorAll(".botao");
 // Seleciona todos os personagens
